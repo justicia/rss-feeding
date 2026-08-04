@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T10:27:49.537722+00:00",
+  "updated_at": "2026-08-04T12:52:39.467624+00:00",
   "articles": [
     {
       "source": "Scherzo",
@@ -58,6 +58,13 @@
       "published_at": "2026-07-30T12:10:40+00:00"
     },
     {
+      "source": "BackstageClassical",
+      "title": "Machtdemonstration? – Christian im Wagner-Haus",
+      "summary": "Axel Brüggemann评Christian Thielemann在拜罗伊特节的瓦格纳：Thielemann把自己的“Wagner‑Haus”布置完善，在《莱茵的黄金》《女武神》中以延迟和弦与缓慢堆积主导张力，营造痛苦与救赎。Camilla Nylund与Michael Volle完全追随，Elza van den Heever的Sieglinde偏刺，Klaus Florian Vogt的Siegmund近似Siegfried。作者批评Thielemann有时显露炫技与倦怠，并称Kirill Petrenko（萨尔茨堡）、Pablo Heras‑Casado、Simone Young、Vladimir Jurowski与Antonio Pappano为瓦格纳带来新视角与色彩。",
+      "url": "https://backstageclassical.com/machtdemonstration-christian-im-wagner-haus",
+      "published_at": "2026-07-29T08:20:25+00:00"
+    },
+    {
       "source": "Scherzo",
       "title": "LISBOA / Maestros y alumnos homenajean a Stephan Picard en el segundo concierto «Master Fest» del Verão Clásico Festival",
       "summary": "Lisboa Teatro Thalia 25‑VII‑2026，Verão Clássico Festival & Academy第12届第二场“Master Fest”向逝世小提琴家Stephan Picard致敬。节目以Mozart与Shostakovich为主：Eszter Haffner、Filipe Pinto‑Ribeiro与11岁学员Jayden King演奏Shostakovich作品，Anna Samuil与Matthias Samuil演唱Shostakovich《Sátiras》，Filipe携Eszter、Alexandra Scott及学员演出Mozart协奏曲第12号K.414。演出被赞为代际对话、技巧与情感兼备的成功致敬。",
@@ -65,11 +72,25 @@
       "published_at": "2026-07-29T06:19:43+00:00"
     },
     {
+      "source": "Scherzo",
+      "title": "MARVÃO / Retrato de Britten y canciones simbolistas a la luna",
+      "summary": "2026年7月27日，XII Festival Internacional de Música de Marvão以纪念布里顿逝世五十周年为主题。Igreja de São Tiago由Carla Isabel Gómez、Martin Mitterrutzner、Ruifeng Li、Aleksandar Madzar、Goldmund Quartet与Florian Poppen演出：Madzar获赞为出色伴奏，Ruifeng Li在Suite para violín y piano op. 6技艺非凡，Gómez与Mitterrutzner演绎On This Island op. 11与The Red Cockatoo and Other Songs获好评，Goldmund Quartet与Poppen的Sinfonía simple o. 4色彩与节奏俱佳。Igreja do Espírito Santo演出Adagio para clarinete, violín y piano（Alban Berg）与Pierrot Lunaire，Ana Caseiro的Sprechgesang被高度评价，Pedro Fonseca负责灯光与空间设计，但“Mondfleck”一曲中歌者被乐团掩盖。",
+      "url": "https://scherzo.es/marvao-retrato-de-britten-y-canciones-simbolistas-a-la-luna",
+      "published_at": "2026-07-29T06:19:02+00:00"
+    },
+    {
       "source": "BackstageClassical",
       "title": "Neuer Blick auf Karajan",
       "summary": "Wolfgang Rathert在新书《Macht, Ohnmacht, Vermächtnis》与BackstageClassical播客中主张以史料去神话化Herbert von Karajan。Rathert断言Karajan与纳粹缔结“mephistophelischen Pakt”，在1934–1942年任亚琛总音乐总监时主动推进纳粹目标、利用被驱逐的犹太音乐家空缺并建构战后网络；战后他以“非政治天才”自我塑形并借鉴Stokowski、Bernstein的媒体策略。Rathert反对抹去纪念物，主张勇于历史语境化。",
       "url": "https://backstageclassical.com/neuer-blick-auf-karajan",
       "published_at": "2026-07-28T21:27:07+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "12 Wurstfinger und ein König",
+      "summary": "Axel Brüggemann在Bayreuth观摩KI‑Ring之Rheingold，批评由Marcus Lobbes策划的AI影像（无面孔、十二指等）消耗观众、乐团与指挥Christian Thielemann的注意力，使舞台行动被淹没；影像缺乏幽默，削弱Alberich变形的喜剧效果。尽管赞赏Thielemann对大弧线与气氛的掌控，并肯定Michael Volle（Wotan）、Klaus Florian Vogt（Loge）、Gerhard Siegel（Mime）、Jochen Schmeckenbecher（Alberich）、Mika Kares、Peter Rose和Christa Mayer的声乐表现，但总体认为影像与制作未能让管弦与戏剧融合。作者将返回观赏Walküre。",
+      "url": "https://backstageclassical.com/12-wurstfinger-und-ein-koenig",
+      "published_at": "2026-07-28T20:48:55+00:00"
     }
   ]
 }
