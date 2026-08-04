@@ -1,4 +1,75 @@
 {
-  "updated_at": "2026-08-04T09:18:26.520830+00:00",
-  "articles": []
+  "updated_at": "2026-08-04T10:27:49.537722+00:00",
+  "articles": [
+    {
+      "source": "Scherzo",
+      "title": "MADRID / El violín y sus leyendas bailadas",
+      "summary": "1 y 2‑VIII‑2026，Madrid Conde Duque（Los Veranos de La Villa）上演Concertdanza，艺术总监Joaquín de Luz，音乐总监Vasko Vassiliev，Músicos del Covent Garden Soloist伴奏。演出以巴洛克小提琴与舞蹈互文为旨，理念受肯定，但节目过长、灯光与编曲失当，键盘代钢琴与扩音引发音响问题。Patricia Donn之Zapateado备受争议；Vasko Vassiliev技艺受赞；Shani Peretz与Yanier Gómez之Vivaldi二重舞及De Luz之Bach Partita为亮点；Repele与Riva之Tabula rasa虽有趣但语境不合。",
+      "url": "https://scherzo.es/madrid-el-violin-y-sus-leyendas-bailadas",
+      "published_at": "2026-08-03T22:56:12+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "SALZBURGO / ‘Ariadne auf Naxos’, una marcianada con muy buena música",
+      "summary": "Salzburgo, Haus für Mozart，2-VIII-2026，Festival de Salzburgo上Ersan Mondtag执导的R. Strauss《Ariadne auf Naxos》将舞台置于“火星”，前后美学童稚、杂乱，结尾以穿潜水服的Bacchus收场，被指庸俗并遭观众嘘声；导演对人物心理贡献有限，虽忠于其风格但成果令人失望，恰逢该剧首演百年尤显遗憾。音乐方面，Manfred Honeck指挥Wiener Philarmoniker呈现极高水准，清新灵动、质感细腻并成就感人终曲。Christina Nilsson饰Ariadne获高度肯定；Kate Lindsey（Composer）、Ziyi Dai（Zerbinetta）、Eric Cutler（Bacchus）等演出亦获好评，众配角表现优异。",
+      "url": "https://scherzo.es/salzburgo-ariadne-auf-naxos-una-marcianada-con-muy-buena-musica",
+      "published_at": "2026-08-03T22:55:46+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "BackstageClassical ist in den Sommerferien",
+      "summary": "BackstageClassical 暑期暂停更新，9月1日恢复，每日古典新闻将继续。假期期间网站提供阅读与独家播客：Benjamin Bernheim 谈歌剧的未来，Katharina Wagner 论 Bayreuther Festspiele，Marie Jacquot 述指挥职业，Omer Meir Wellber 探音乐中的政治；另有关于新观众、社媒、Techno与音乐厅、世代交替等专题。所有内容免费，鼓励订阅免费通讯或捐助。Axel Brüggemann 为撰稿人兼节目制作人并附有其履历介绍。",
+      "url": "https://backstageclassical.com/backstageclassical-ist-in-den-sommerferien",
+      "published_at": "2026-08-03T22:01:16+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "SALZBURGO / Benjamin Bernheim hace historia como Werther, con bis incluido",
+      "summary": "Salzburgo Großes Festspielhaus上演Jules Massenet: Werther（音乐会版）。Benjamin Bernheim饰Werther被评为当代该角名家，表演内化且声色丰富，并加演“Pourquoi me réveiller?”引起热烈反响。Alain Altinoglu指挥Orquesta Sinfónica de La Monnaie表现出色；Coro de niños del Festival de Salzburgo也很亮眼。Adèle Charvet、Sandra Hamaoui、Andrey Zhilikovsky与Manuel Winckhler同获好评。",
+      "url": "https://scherzo.es/salzburgo-benjamin-bernheim-hace-historia-como-werther-con-bis-incluido",
+      "published_at": "2026-08-02T23:34:33+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Friedman, Rienzi, Ring und Co. – eine Bayreuth-Bilanz",
+      "summary": "第150届Bayreuther Festspiele首周兼具技术实验与对纳粹往事的反思。Peter Huth与Axel Brüggemann回顾；Michel Friedman与Katharina Wagner呼吁纪念犹太音乐家。Rienzi在Festspielhaus首演（导演Alexandra Semeredi、Magdolna Paditka）；“KI‑Ring”以AI生成舞美引发争议。Christian Thielemann指挥的Götterdämmerung与Klaus Florian Vogt、Michael Volle获赞技艺，但被批评缺乏诠释新意。",
+      "url": "https://backstageclassical.com/friedman-rienzi-ring-und-co-eine-bayreuth-bilanz",
+      "published_at": "2026-08-01T23:13:57+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BAYREUTH / ‘Rienzi’ hace temblar los límites del Festival de Bayreuth",
+      "summary": "7月26日Bayreuth Festspielhaus首演瓦格纳《Rienzi》，为Festival de Bayreuth 150周年九场限定之一。Alexandra Szemerédy与Magdolna Parditka将中世纪罗马移入当代残酷主义语境，突出Rienzi与妹Irene的乱伦暗线与民粹堕落。Nathalie Stutzmann指挥通透轻盈；Andreas Schager表现最为突出，Jennifer Holloway（Adriano）声色俱佳，Gabriela Scherer、Andreas Bauer Kanabas、Vitalij Kowaljow与Michael Nagy阵容稳健。首演获约十五分钟掌声，并引发对作品历史语境及其在节日曲目中地位的讨论。",
+      "url": "https://scherzo.es/bayreuth-rienzi-hace-temblar-los-limites-del-festival-de-bayreuth",
+      "published_at": "2026-07-31T10:33:45+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Warum fällt Hinterhäuser der Abschied so schwer?",
+      "summary": "Markus Hinterhäuser不再担任Salzburger Festspiele总监，却仍频繁出席演出并与Matthias Goerne同台，其离任及疑有保密条款引发透明度争议。Landesverwaltungsgericht裁定Festspielfonds须在六周内披露离职与解约总费用及是否对Kuratorium成员追责，Festspiele可上诉。媒体曾猜测费用逾百万，Sven Hartberger并倡请Rechnungshof审查。评论指出Hinterhäuser难以放手，其在场正在损及节庆形象，继任者Karin Bergmann力图挽救演季。",
+      "url": "https://backstageclassical.com/warum-faellt-hinterhaeuser-der-abschied-so-schwer",
+      "published_at": "2026-07-31T07:25:55+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Rienzi ist Wagners Monster",
+      "summary": "在拜罗伊特，指挥Natalie Stutzmann与导演Alexandra Szemerédy、Magdolna Parditka的Rienzi新演绎引发关注。Stutzmann在BackstageClassical称瓦格纳早期歌剧Rienzi为“没有Rienzi就没有指环”的决定性“杰作”，已预示后期瓦格纳的音乐架构、半音和早期首导动机，配器复杂、对位严谨，演出对指挥、乐团、合唱与独唱体力要求极高但参与者热情高涨。两位导演将新版作为对民粹权力机制的考察，非直接希特勒寓言，着重Rienzi与其妹妹的权力与依赖关系，并以自嘲的芭蕾与蒙蒂·派森式幽默交错，呈现乌托邦与反乌托邦的张力及权力自我塑造的毁灭性后果。",
+      "url": "https://backstageclassical.com/rienzi-ist-wagners-monster",
+      "published_at": "2026-07-30T12:10:40+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "LISBOA / Maestros y alumnos homenajean a Stephan Picard en el segundo concierto «Master Fest» del Verão Clásico Festival",
+      "summary": "Lisboa Teatro Thalia 25‑VII‑2026，Verão Clássico Festival & Academy第12届第二场“Master Fest”向逝世小提琴家Stephan Picard致敬。节目以Mozart与Shostakovich为主：Eszter Haffner、Filipe Pinto‑Ribeiro与11岁学员Jayden King演奏Shostakovich作品，Anna Samuil与Matthias Samuil演唱Shostakovich《Sátiras》，Filipe携Eszter、Alexandra Scott及学员演出Mozart协奏曲第12号K.414。演出被赞为代际对话、技巧与情感兼备的成功致敬。",
+      "url": "https://scherzo.es/lisboa-maestros-y-alumnos-homenajean-a-stephan-picard-en-el-segundo-concierto-master-fest-del-verao-clasico-festival",
+      "published_at": "2026-07-29T06:19:43+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Neuer Blick auf Karajan",
+      "summary": "Wolfgang Rathert在新书《Macht, Ohnmacht, Vermächtnis》与BackstageClassical播客中主张以史料去神话化Herbert von Karajan。Rathert断言Karajan与纳粹缔结“mephistophelischen Pakt”，在1934–1942年任亚琛总音乐总监时主动推进纳粹目标、利用被驱逐的犹太音乐家空缺并建构战后网络；战后他以“非政治天才”自我塑形并借鉴Stokowski、Bernstein的媒体策略。Rathert反对抹去纪念物，主张勇于历史语境化。",
+      "url": "https://backstageclassical.com/neuer-blick-auf-karajan",
+      "published_at": "2026-07-28T21:27:07+00:00"
+    }
+  ]
 }
