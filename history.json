@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-26T05:54:08.623559+00:00",
+  "updated_at": "2026-08-27T16:36:22.201880+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Die MET geht in eine neue Kino-Saison",
+      "summary": "Metropolitan Opera将于9月19日以Renée Fleming主持的周年晚会开启“Met live im Kino”20周年影院季，回顾逾185次转播，片段含Jonas Kaufmann、Joyce DiDonato、Lise Davidsen等。常规季自10月3日Così fan tutte起，节目包括10月17日Lise Davidsen首演Lady Macbeth、12月5日Samson et Dalila、1月23日La fanciulla del West、4月3日Manon、4月24日Bartlett Sher版Otello与6月5日François Girard版Parsifal。演出将直播至德国与奥地利影院，门票已开售。",
+      "url": "https://backstageclassical.com/die-met-geht-in-eine-neue-kino-saison",
+      "published_at": "2026-08-27T08:45:03+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Die Highlights der neuen Opern-Saison",
+      "summary": "新歌剧季美学多元：汉堡与德累斯顿领跑。Tobias Kratzer将Hamburgische Staatsoper迁入马戏帐篷，以Verdi《Macbeth》开幕并排演Rossini《Guillaume Tell》（Susanna Mälkki指挥）；Semperoper Dresden上演Martinů《The Greek Passion》与Wagner《Rienzi》（Eva‑Maria Höckmayr）；Deutsche Oper Berlin推出Stockhausen《Mittwoch aus Licht》。Nürnberg首演Anno Schreier新作《Cosa Nostra》，Hannover带来Dusapin《Il Viaggio, Dante》（Roland Kluttig/Claus Guth）。",
+      "url": "https://backstageclassical.com/die-highlights-der-neuen-saison",
+      "published_at": "2026-08-27T07:12:25+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "SALZBURGO / Orquesta Filarmónica de Berlín, la máquina perfecta",
+      "summary": "Salzburgo Grosses Festpielhaus（23‑VIII‑2026），Orquesta Filarmónica de Berlín在Kirill Petrenko指挥下演出Edward Elgar的Variaciones Enigma op.36与Piotr Ilich Chaikovski的Sinfonía nº 4 en Fa menor op.36。乐团以“机器般”精准与强大爆发力见长，中提琴段音色出众；Diyang Mei、Stephan Koncz与Albrecht Mayer分别有精彩独奏。Petrenko对细节与动态掌控严密，终章收束有力，全场起立热烈鼓掌。",
+      "url": "https://scherzo.es/salzburgo-orquesta-filarmonica-de-berlin-la-maquina-perfecta",
+      "published_at": "2026-08-27T06:49:58+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "VILABERTRAN / La voz mágica de Ruzan Mantashyan ilumina la Schubertíada",
+      "summary": "在Schubertíada（Vilabertran），女高音Ruzan Mantashyan与钢琴家Margarit Sargsyan演唱Komitas、德沃夏克《爱情歌曲Op.83》、柴可夫斯基及R. Strauss。Mantashyan以天鹅绒音色、清晰咬字与纯净高音驾驭多样曲目；Sargsyan伴奏出色，返场亚美尼亚曲目获热烈掌声。",
+      "url": "https://scherzo.es/vilabertran-la-voz-magica-de-ruzan-mantashyan-ilumina-la-schubertiada",
+      "published_at": "2026-08-27T06:48:25+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "SALZBURGO / ‘Così fan tutte’, el sabor amargo del amor",
+      "summary": "8月22日，萨尔茨堡Grosses Festspielhaus上演莫扎特《Così fan tutte》，Christof Loy执导，Christoph Koncz指挥，Orquesta Filarmónica de Viena与Konzertvereinigung Wiener Staatsopernchor参与。该剧自2020年疫情时被删节演出后今季较完整复排，但仍删去“È la fede delle femmine”“Bella vita militar”等段落，并以K.584替代Guglielmo常唱的“Non siete ritrosi”。Elsa Dreisig（Fiordiligi）成为全场焦点；Victoria Karkacheva（Dorabella）、Bogdan Volkov（Ferrando）、Andrè Schuen（Guglielmo）、Lea Desandre（Despina）各有亮点。Johannes Martin Kränzle突发状况时由Christopher Maltman在乐池代唱并获好评。Loy的极简舞台与带有苦涩意味的结尾受到高度评价。",
+      "url": "https://scherzo.es/salzburgo-cosi-fan-tutte-el-sabor-amargo-del-amor",
+      "published_at": "2026-08-26T06:11:27+00:00"
+    },
     {
       "source": "BackstageClassical",
       "title": "Nicht nur nach prominenten Namen suchen",
