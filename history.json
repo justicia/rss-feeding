@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-02T09:42:17.075723+00:00",
+  "updated_at": "2026-09-03T09:55:54.842191+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "El Musikfest Bremen: variedad y calidad",
+      "summary": "Musikfest de Bremen外扩演出：Oldenburgisches Staatstheater半舞台呈现Haydn的L’isola disabitata，Zephyr Brüggen率Orchestra of the Eighteenth Century，Hannah Gries等四位歌手热情演出但服装不协调。Die Glocke的Gala Verdi由Hulkar Sabirova替代Nicole Chevalier，Filarmónica de Bremen（Marko Letonja）伴奏细腻，并在Respighi的Fontane di Roma中展现丰富色彩。Julia Lezhneva与Il Giardino Armonico及Jakub Józef Orliński/Il Pomo d’Oro的独唱亦获好评。",
+      "url": "https://scherzo.es/el-musikfest-bremen-variedad-y-calidad",
+      "published_at": "2026-09-03T06:15:06+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "99 Prozent sind die neuen 23 Zentimeter",
+      "summary": "Axel Brüggemann指出，慕尼黑（Serge Dorny称99%）、Salzburger Festspiele（“超过99%”）、Bregenz与Elbphilharmonie等处纷纷宣布高上座率。作者质疑有无赠票、降场次或合并统计等手段，上座率能否说明质量或古典乐“繁荣”？作者警告：以上座率衡量质量，会将受补贴文化市场化，变成数字炫耀。",
+      "url": "https://backstageclassical.com/99-prozent-sind-die-neuen-23-zentimeter",
+      "published_at": "2026-09-02T14:04:59+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "SAN SEBASTIÁN / Cierre de la Quincena con Chailly y la Scala: de menos a más hasta un final brillante",
