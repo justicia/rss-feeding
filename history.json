@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-07T10:28:52.784836+00:00",
+  "updated_at": "2026-09-08T09:48:18.050571+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Neues Orchester in Paris",
+      "summary": "116名（共174名）Orchester der Pariser Oper音乐家组建了独立自主管理的交响乐团Philopéra，参照Wiener Philharmoniker、Filarmonica della Scala和Bayerisches Staatsorchester的模式。首演周日在Palais Garnier，Daniel Harding指挥Schuberts dritte与Mahlers erste Symphonie »Titan«，演出售罄并获热烈掌声。Philopéra将演奏歌剧日常中难以容纳的交响曲目，并计划室内乐、国际巡演及罕见法国作品重现。",
+      "url": "https://backstageclassical.com/neues-orchester-in-paris",
+      "published_at": "2026-09-08T07:14:44+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BERLÍN / El Musikfest mantiene vivo el recuerdo de Wolfgang Rihm con un arrebatador ‘Tutuguri’",
+      "summary": "9月2日，Musikfest Berlin在Philharmonie上演Wolfgang Rihm的Tutuguri。Jörg Widmann指挥Lucerne Festival Contemporary Orchestra，Michael Engelhardt担任叙述，Maxime Le Saux负责声场投影。作为对已故Rihm的纪念，该近三小时演出被视为Musikfest 2026的高潮：Engelhardt表现生动，合唱（录音为SWR Vokalensemble）的空间化、打击乐与乐团表现卓越，Widmann指挥投入且肢体强烈，成功呈现作品的原始狂野与丰富细节。",
+      "url": "https://scherzo.es/berlin-el-musikfest-mantiene-vivo-el-recuerdo-de-wolfgang-rihm-con-un-arrebatador-tutuguri",
+      "published_at": "2026-09-08T06:28:40+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Von Beethoven bis Blondie: Warhol zum Auflegen",
+      "summary": "Beethoven-Haus推出展览 Beethoven by Warhol，展出100多件藏品，重点呈现安迪·沃霍尔临终前创作的四联丝网版画BEETHOVEN及其为古典、爵士到The Velvet Underground、Rolling Stones和Blondie设计的约六十件唱片封面。Guy Minnebach在展览目录中梳理沃霍尔从1950年代以Blotted Line技法到1960年代摄影丝网印刷的艺术演变，BackstageClassical刊出其节选，展览彰显沃霍尔借唱片封面将大众媒介与美术互通、扩大艺术影响力的实践。",
+      "url": "https://backstageclassical.com/von-beethoven-bis-blondie-warhol-zum-auflegen",
+      "published_at": "2026-09-07T14:20:47+00:00"
+    },
     {
       "source": "BackstageClassical",
       "title": "Kosky oder Caluwe? Düsseldorf oder Bonn?",
