@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-09-08T09:48:18.050571+00:00",
+  "updated_at": "2026-09-09T09:52:45.439878+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Lieber Justus Frantz,",
+      "summary": "Justus Frantz将于9月12日在吕贝克机场行李领取处与儿子Konstantin演出，约150座，免费。因其俄罗斯相关立场，Schleswig-Holstein音乐节（SHMF）艺总Christian Kuhnt已不再邀请他。机场为Winfried Stöcker所有，去年曾向AfD捐款150万欧元。去年11月Frantz获普京颁发俄国“友谊勋章”，并在莫斯科音乐学院采访中称普京“非常热情”“非常聪明”。",
+      "url": "https://backstageclassical.com/lieber-justus-frantz-2",
+      "published_at": "2026-09-09T09:11:49+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BERLÍN / Sir Simon Rattle y la Freiburger Barockorchester, o el beneficio de encontrarse",
+      "summary": "Berlín. Philharmonie. 3-IX-2026. 在Musikfest Berlin上，Sir Simon Rattle率Freiburger Barockorchester携Isabelle Faust演绎Robert Schumann作品：Genoveva序曲 op.81、协奏曲 D小调 WoO 1与第2交响曲 op.61。Freiburger Barockorchester以历史演奏派音色和精湛技艺示人，首席Éva Borhi表现出色；Rattle为作品注入更多感性与自由，指挥与乐团多处配合精彩。Isabelle Faust在协奏曲中技艺与音色俱佳，获热烈掌声，安可为Nicola Matteis II的Fantasía en Do menor “Con discretione”。对交响曲仍认为需更多持续合作以达更统一风格。",
+      "url": "https://scherzo.es/berlin-sir-simon-rattle-y-la-freiburger-barockorchester-o-el-beneficio-de-encontrarse",
+      "published_at": "2026-09-09T06:20:13+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "LEÓN / Una fiesta de la música española en una España vaciada musicalmente",
+      "summary": "2026年9月7日，39º Festival de Música Española de León由Cuarteto Bretón演出，曲目包括Raquel Rodríguez的Density、Rogelio Villar的D大调四重奏与Tomás Bretón第2号《Dramático》。Cuarteto Bretón（Anne‑Marie North、Antonio Cárdenas、Rocío Gómez、John Stokes）自2003年致力该曲目，演奏精准，尤其能驾驭Bretón作品的浓密后浪漫与马勒式抒情，且已自录Aeternae。节庆由Miguel Fernández Llamazares与Orquesta Ibérica发起、Julia Franco支持，机构资助有限，Orquesta de Castilla y León未参与，观众热烈鼓掌。",
+      "url": "https://scherzo.es/leon-una-fiesta-de-la-musica-espanola-en-una-espana-vaciada-musicalmente",
+      "published_at": "2026-09-09T06:19:42+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Man wird ja wohl noch fragen dürfen",
+      "summary": "文章指公营媒体SWR与arte在应对关于Teodor Currentzis、François-Xavier Roth等争议时缺乏透明、答复有限且存双重标准。SWR编辑Malte Hemmerich曾断定性询问BackstageClassical作者Karl Keller是否为笔名（事实并非）；SWR对Currentzis及其乐团MusicAeterna接受VTB、Gazprom资助与相关言论多次回避；arte在转播萨尔茨堡节Salzburger Festspiele上Asmik Grigorian主演的Bizet歌剧Carmen前迟迟不表态，事后仅称“转播不等于立场”。作者Axel Brüggemann呼吁公营广播以透明与问责为先。",
+      "url": "https://backstageclassical.com/man-wird-ja-wohl-noch-fragen-duerfen",
+      "published_at": "2026-09-08T15:34:24+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Gericht weist Netrebko-Vorwürfe gegen Gelb zurück",
+      "summary": "纽约联邦法院驳回Anna Netrebko对大都会歌剧与总监Peter Gelb的诽谤与报复指控，认为她作为公众人物未能证明Gelb故意散布虚假言论。法院并指出她早期诉状曾否认与克里姆林宫会谈但后来删去该句；Gelb曾称相信她有“特定会谈”。因其俄籍及性别的歧视指控仍在审理，Netrebko可在10月5日前再次修订起诉。",
+      "url": "https://backstageclassical.com/gericht-weist-netrebko-vorwuerfe-gegen-gelb-zurueck",
+      "published_at": "2026-09-08T11:59:12+00:00"
+    },
     {
       "source": "BackstageClassical",
       "title": "Neues Orchester in Paris",
