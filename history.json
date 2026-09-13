@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-12T09:26:14.408171+00:00",
+  "updated_at": "2026-09-13T10:22:33.571419+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "SALZBURGO / San Francisco de Asís, ‘alter ego’ de Messiaen",
+      "summary": "Festival de Salzburgo 2026年于Felsenreitschule上演Olivier Messiaen《Saint François d'Assise》。导演Romeo Castellucci，音乐总监Maxime Pascal，Orquesta Filarmónica de Viena与Konzertvereinigung Wiener Staatsopernchor（指挥Jozef Chabroň）参演。Philippe Sly、Lauranne Oliva、Sean Panikkar领衔。Castellucci以极简舞台、真动物与争议装置呈现，开场裸体与第三场“吻麻风者”冲击力强；第六场“对鸟的布道”音乐卓越，但撒落死鸟的舞台处理被指削弱戏剧性。Pascal对乐队与合唱掌控有力，节奏与音响平衡获肯定。",
+      "url": "https://scherzo.es/salzburgo-san-francisco-de-asis-alter-ego-de-messiaen",
+      "published_at": "2026-09-13T09:48:16+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Macbeth trifft Mäc-Geiz",
+      "summary": "汉堡州立歌剧院由Tobias Kratzer推出新《Macbeth》，把舞台收为地毯客厅式的皇室肥皂剧与密室戏，合唱与群戏全场出现、雨幕与大量尸体构成强烈视觉。制作简朴但构思周密，细节（如Banquo之子Fleanzio的黄雨衣/后续的东弗里西亚雨衣）耐人寻味。音乐方面，指挥Tomáš Hanus被批评缺乏神秘色彩与张力，管弦色彩苍白、节奏过于平均；Kartal Karagedik与Nino Machaidze未能始终以嗓音承载Verdi的宏大，Dovlet Nurgeldiyev在Macduff咏叹中暴露出指挥问题。",
+      "url": "https://backstageclassical.com/macbeth-trifft-maec-geiz",
+      "published_at": "2026-09-12T23:48:28+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Lieber Deutscher Musikrat,",
+      "summary": "Axel Brüggemann在BackstageClassical批评Deutscher Musikrat的Instagram短片“Keine Stimme für die AfD!”适得其反：Cornelius Meister念稿显尴尬，Mecklenburg‑Vorpommern片段及Intendantin Ursi Haselböck与Musikrats‑Generälin Antje Valentin的“Ich? Sowieso!”被指无意义。作者称该活动幼稚、脱离现实，自Ulrich Siegmund为Spiegel封面签名后本应谨慎，结果招来AfD人士与Rechts‑Trolle的“blaue Herzen”，并呼吁改进社媒策略，以讽刺与对巴赫、贝多芬、瓦格纳话语权的争夺应对。",
+      "url": "https://backstageclassical.com/lieber-deutscher-musikrat",
+      "published_at": "2026-09-12T12:06:04+00:00"
+    },
     {
       "source": "BackstageClassical",
       "title": "Babyalarm in Leipzig",
