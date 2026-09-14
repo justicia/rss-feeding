@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-13T10:22:33.571419+00:00",
+  "updated_at": "2026-09-14T10:47:25.484509+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Intendantenkarussell, Kulturmedien und der Wert von Orchestern",
+      "summary": "文章关注柏林、莱比锡与萨尔茨堡的院长人事：Markus Hinterhäuser继任延迟，Barrie Kosky与Peter de Caluwe为热门候选；Hinterhäuser与Festspielfonds就保密条款交涉，Landeshauptfrau Karoline Edtstadler否认“数百万”支付。作者批评文化媒体透明度并质疑柏林爱乐“数十亿”估值。演出评述：Gewandhaus一场被幼儿打扰，但Sol Gabetta与Petr Popelka仍精彩演绎肖斯塔科维奇第二大提琴协奏曲。另闻：Anna Netrebko败诉Met；巴黎歌剧院音乐家组建Philopéra，首演由Daniel Harding指挥；Herbert Blomstedt获Praemium Imperiale。",
+      "url": "https://backstageclassical.com/intendantenkarussell-kulturmedien-und-der-wert-von-orchestern",
+      "published_at": "2026-09-14T08:28:44+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BADAJOZ / La música de los conventos femeninos italianos",
+      "summary": "Badajoz大教堂回廊，13-IX-2026，XXXI Festival de Música Sacra y Antigua，Pérgamo Ensemble（Guillermo Turiuna, violonchelo barroco；Eva del Campo, clave；Elisabeth Hetherington, soprano）演绎17世纪意大利修道院女修音乐，曲目包括Isabella Leonarda、Chiara Margarita Cozzolani（《O Maria, tu dulcis》）、Lucrezia Orsina Vizzana（《Ave Stella matutina》）、Rosa Giacinta Badalla（《Non piangete》）等。Elisabeth Hetherington嗓音被称“angelical”，音色晶亮、颤振少、吐字拉丁语清晰，花腔与长气息技艺卓越；大提琴（Turina/Turiuna）音色有力且富表达性，运用glissandi与色彩变化恰当；Eva del Campo伴奏稳健，ostinato处理尤为出色。",
+      "url": "https://scherzo.es/badajoz-la-musica-de-los-conventos-femeninos-italianos",
+      "published_at": "2026-09-14T06:42:09+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "OVIEDO / La temporada en el Campoamor da comienzo con una ‘honda tristeza’ sobre el escenario",
+      "summary": "Oviedo Teatro Campoamor于2026年9月11日为79ª temporada揭幕，Fundación Ópera de Oviedo将Mahler的Kindertotenlieder与Puccini的Suor Angelica合入一体，以“失子之痛”为主轴。舞台导演Joan Anton Rechi，指挥Diego Martin‑Etxebarria，布景Sebastian Ellrich，服装Gabriela Salaverri，灯光Alberto Rodríguez。Jacques Imbrailo演唱沉稳，Beatriz Díaz在“Senza mamma”达到情感与声乐高潮，OSPA表现出色，整体制作被评价为原创且执行优异。",
+      "url": "https://scherzo.es/oviedo-la-temporada-en-el-campoamor-da-comienzo-con-una-honda-tristeza-sobre-el-escenario",
+      "published_at": "2026-09-14T06:40:42+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "SALZBURGO / San Francisco de Asís, ‘alter ego’ de Messiaen",
