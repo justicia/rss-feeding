@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-14T10:47:25.484509+00:00",
+  "updated_at": "2026-09-15T10:09:44.112244+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "VALENCIA / Un paso hacia la normalización de género",
+      "summary": "Valencia Palau de les Arts 9月13日，Orquesta de la Comunitat Valenciana在年度开放日音乐会由Anja Bihlmaier执棒——这是首次由女性指挥该团的交响音乐会。上半场演奏Musorgski/Ravel的Cuadros de una exposición，下半场为Chaikovski的Sinfonía nº 5 en Mi menor。Bihlmaier在Musorgski处理弦乐轻盈细腻，Rubén Marqués（小号）、Ramiro Tejero（大号）及木管独奏表现优异；柴可夫斯基第五呈现权威与整体视野，弦乐细节与力度控制到位，Bernardo Cifres的圆号独奏亦获称赞。",
+      "url": "https://scherzo.es/valencia-un-paso-hacia-la-normalizacion-de-genero",
+      "published_at": "2026-09-15T07:12:03+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "»Ich sang an der Met – und kam mit nichts nach Hause«",
+      "summary": "美国男低音Andrew Potter在写给专业网站OperaWire的公开信中宣布：因美国歌剧业工作条件和报酬问题，他在43岁时结束歌剧舞台生涯。Potter回忆在大都会歌剧（Met）担任普契尼《Turandot》中Timur的cover，为此自费赴纽 约并自付住宿，遭遇诈骗订屋和高额临时酒店费，导致大部分酬劳被消耗。他指责这是系统性问题——房租、差旅与生活成本上升而歌唱家酬劳停滞，另有经纪佣金与常自付的行程费用，并呼吁歌剧院承担差旅与住宿、合理付酬。文中并引述Kyle Albertson及Jonas Kaufmann对英美歌剧院支付水平的类似批评。Potter表示将转到一家利用数据中心余热经营温室的公司工作，但并非完全脱离歌剧。文章由BackstageClassical刊出，注明有AI辅助写作并经编辑。",
+      "url": "https://backstageclassical.com/ich-sang-an-der-met-und-kam-mit-nichts-nach-hause",
+      "published_at": "2026-09-14T22:24:58+00:00"
+    },
     {
       "source": "BackstageClassical",
       "title": "Intendantenkarussell, Kulturmedien und der Wert von Orchestern",
