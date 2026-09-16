@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-15T10:09:44.112244+00:00",
+  "updated_at": "2026-09-16T10:01:37.980822+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Mehr Geld für Berliner Philharmoniker",
+      "summary": "联邦在新首都融资协议中增加对Stiftung Berliner Philharmoniker的资助，并以2.25亿欧元参与柏林Philharmonie的总体翻修，旨在提供规划安全。Eva‑Maria Tomasi与Walter Küssner称更高资助为乐团创造更可靠的艺术工作基础；Intendantin Andrea Zietzschmann表示联邦资金可促使项目今年有序启动，但总体融资与施工期替代场地仍未确定。Philharmonie每年约举办600场演出；首席指挥Kirill Petrenko称其为“musikalische Heimat”。",
+      "url": "https://backstageclassical.com/mehr-geld-fuer-berliner-philharmoniker",
+      "published_at": "2026-09-16T09:07:54+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Chopin gehört Sony…",
+      "summary": "MDG制片人Werner Dabringhaus在Instagram频道mdg.classics推介Christian Zacharias与Orchestre de Chambre de Lausanne的Chopin Klavierkonzerte录音时，视频被AI以侵犯SONY版权自动封锁。Dabringhaus联络Sony副总Michael Brüggemann并申诉后首次获放行，但随后解说此事的第二段视频再被同样机器封禁且申诉未被接纳。事件暴露自动化版权识别误判，质疑KI能否公正判断作者权利并可能偏向大公司。",
+      "url": "https://backstageclassical.com/chopin-gehoert-sony",
+      "published_at": "2026-09-15T14:15:02+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "VALENCIA / Un paso hacia la normalización de género",
