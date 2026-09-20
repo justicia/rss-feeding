@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-09-19T09:37:02.214546+00:00",
+  "updated_at": "2026-09-20T09:52:41.511864+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "EL ESCORIAL / Daniel Barenboim: destellos y realidades",
+      "summary": "San Lorenzo de El Escorial Teatro Auditorio 19.9.2026，Festival Internacional de Artes Escénicas闭幕音乐会由Daniel Barenboim指挥其创立的West-Eastern Divan Orchestra演出，曲目为Wagner《Preludio y Muerte de amor de Tristán e Isolda》、Schubert《Sinfonía Incompleta》和Schumann《Renana》。Barenboim虽患类帕金森神经病、行动衰弱、以左手简短提示、指挥棒几乎不动，但其音乐智慧与掌控在Tristán前奏与Liebestod中尤为显现，乐团回应出色；Schubert表达充足但速度过慢、发展部略显混乱；Schumann《Renana》合奏不够透明、有若干失误，被评为当晚最弱，仍获热烈掌声。",
+      "url": "https://scherzo.es/el-escorial-daniel-barenboim-destellos-y-realidades",
+      "published_at": "2026-09-20T08:11:18+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BERLÍN / ‘Lear’ en el Hangar 4: huracán en el aeropuerto",
+      "summary": "柏林 Komische Oper（16.9.2026）在 Tempelhof Hangar 4 上演 Aribert Reimann 的 Lear，导演 Barrie Kosky，音乐指挥 Nicholas Carter，Orquesta de la Komische Oper de Berlín 伴奏。巨型方台、四角打击塔与 Olaf Freese 灯光、声乐放大强化作品的暴烈与偶发抒情。Scott Hendricks（Lear）声量雄厚、表演摧毁性；Penny Sofroniadou（Cordelia）、Dagmar Manzel（Bufón）、Brenton Ryan、Aryeh Nussbaum Cohen 等人表现出色。暴风与致盲场面被指雾化或趋于怪诞，但整场获长时间掌声，成功开启 Komische Oper 新季。",
+      "url": "https://scherzo.es/berlin-lear-en-el-hangar-4-huracan-en-el-aeropuerto",
+      "published_at": "2026-09-19T23:25:28+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BUCAREST / Nelson Goerner: profundidades alrededor del Do",
+      "summary": "Bucarest，Ateneo Rumano，18-IX-2026：在 Concurso Internacional George Enescu 决赛前夜，Nelson Goerner 以 Toccata en Do menor, BWV 911 de Bach、Fantasía en Do mayor, op. 17 de Schumann 与 Sonata en Do menor, D958 de Schubert 演出，节目以“Do”调为轴。评论称他在复调处理、抒情深度与技术炫目之间取得平衡，演绎深沉而不矫饰，获热烈回响；三次安可为 Nocturno nº20 en Do sostenido menor de Chopin、Preludio nº2 op. 23 en Si bemol mayor de Rachmaninov 与 Intermezzo op. 118 nº2 de Brahms。",
+      "url": "https://scherzo.es/bucarest-nelson-goerner-profundidades-alrededor-del-do",
+      "published_at": "2026-09-19T23:25:09+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / Nagano: Mahler de gran intensidad en su debut como titular de la OCNE",
+      "summary": "马德里国家音乐厅，OCNE 26-27季首场爆满，Kent Nagano以新任团长身份首演，节目为Mikel Urquiza委约新作《Deseo tomó delicia》与马勒《第二交响曲》。Nagano指挥精准、重细节且不矫饰，乐团与合唱表现出色；女高音Jane Archibald与女中音Christina Bock演唱良好但略嫌声量不足。终章“Moriré para vivir”震撼有力。总体为优秀且令人期待的开端，现场被手机与过早掌声小幅干扰。",
+      "url": "https://scherzo.es/madrid-nagano-mahler-de-gran-intensidad-en-su-debut-como-titular-de-la-ocne",
+      "published_at": "2026-09-19T10:21:20+00:00"
+    },
     {
       "source": "BackstageClassical",
       "title": "Oper Köln vor Comeback – Mulders hofft auf nachhaltige Wirkung",
