@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-09-24T10:08:47.152532+00:00",
+  "updated_at": "2026-09-25T10:18:07.497274+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "MADRID / ‘La verbena de la Paloma’, brillante regreso al Teatro de la Zarzuela",
+      "summary": "Teatro de la Zarzuela以Tomás Bretón的La verbena de la Paloma开启26/27季，沿用Nuria Castejón 2024年制作，Carlos Aragón指挥Orquesta de la Comunidad de Madrid；演前上演Álvaro Tato的Adiós Apolo。ORCAM与合唱（指挥Antonio Fauró）表现出色，Borja Quiza、Milagros Martín、Sara Salado、Mitxel Santamarina等演出获赞，首演满座掌声热烈，制作或成代表作。",
+      "url": "https://scherzo.es/madrid-la-verbena-de-la-paloma-brillante-regreso-al-teatro-de-la-zarzuela",
+      "published_at": "2026-09-25T06:48:39+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Mit Poesie gegen politische Extreme",
+      "summary": "AfD在萨克森-安哈尔特州胜选后，马格德堡剧院总监Julien Chavaz警告政治可能通过经费对公立剧院施压，表示会公开此类干预，但不会预先调整剧目或转向“抵抗剧场”。他主张以戏剧的诗性与现场魅力抵抗政治挟持，强调国际化与地方结合，例举1. FC Magdeburg、Tokio Hotel及拟作关于Intel落户失败的歌剧。剧院2025获《Theater heute》年度剧院，Chavaz2028/29将任Aalto-Musiktheater并执掌Essener Philharmoniker。",
+      "url": "https://backstageclassical.com/mit-poesie-gegen-politische-extreme",
+      "published_at": "2026-09-24T17:50:29+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / Demasiadas preguntas para Manon",
+      "summary": "23.9.2026 Teatro Real上演Puccini《Manon Lescaut》，该剧时隔102年回归。Carlos Wagner的舞台制作被批改动过多：统一布景、移至五十年代、Intermezzo错位、将Manon设为脱衣舞者并改由Des Grieux死亡，削弱并改变原作戏剧意图。音乐方面获好评：Sondra Radvanovsky的Manon扎实有戏剧性，Michael Fabiano中音稳健高音薄弱，Lucas Meachem与Pietro Spagnoli称职，Orquesta y coro del Teatro Real在Nicola Luisotti指挥下表现卓越。",
+      "url": "https://scherzo.es/madrid-demasiadas-preguntas-para-manon",
+      "published_at": "2026-09-24T14:39:15+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Weitere Absage für das Opera Lab",
+      "summary": "BackstageClassical调查：Komische Oper Berlin选角导演Trevor John Pichanick退出Vienna Opera Lab，Peter Heilker与Malte Puls此前亦撤席。多位读者与业内称收费试唱成常态。例：NYIOP 11月柏林试唱费300欧元，伴奏另付；ANON匿名项目曾以无影像Zoom试唱举行。",
+      "url": "https://backstageclassical.com/weitere-absage-fuer-das-opera-lab",
+      "published_at": "2026-09-24T13:28:42+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "BERLÍN / Gigantesco arranque de temporada de la Deutsche Oper con ‘Mittwoch aus Licht’, de Stockhausen",
