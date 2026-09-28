@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-09-27T10:37:14.550228+00:00",
+  "updated_at": "2026-09-28T11:49:00.154857+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "MADRID / El poderío vocal de Apollo5",
+      "summary": "由Tala Producciones在Ateneo de Madrid举办的Salón del Ateneo新季开幕，英国人声合唱组Apollo5（Penelope Appleyard、Lily Robson、Thomas Mottershead、Joseph Taylor、Augustus Perkins Ray）首次来马德里，献上A day in paradise，共唱十五首曲目并加两首安可，曲目含Whitacre的This marriage及专辑Crossings中的Arise, awake（Morley）、Méditation（Pott）与Strike it up, Tabor（Connor Kennedy）。演出获赞音色纯净、发音与合唱极佳、音准令人惊叹，风格多样且舞台幽默，Thomas Mottershead与Penelope Appleyard表现突出。",
+      "url": "https://scherzo.es/madrid-el-poderio-vocal-de-apollo5",
+      "published_at": "2026-09-28T10:21:18+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Oper? Geschenkt! – Poesie statt Politik",
+      "summary": "BackstageClassical：Vienna Opera Lab争议促使Peter Heilker、Malte Puls与Trevor John Pichanick撤出，并呼吁国营歌剧院承担国际选拔费用。纽约Met拟向未购票市民赠7万张票，Met总监Peter Gelb同时募款15亿美元；Cleveland Orchestra乐团员要求三年内薪资增25%。Magdeburg总监Julien Chavaz在播客中主张剧场为“诗意”，拒绝“AfD-合规”。Klaus Heymann与Naxos的股权纠纷进入香港清算；科隆歌剧院重开，《Rosenkavalier》首演被批非常糟糕。",
+      "url": "https://backstageclassical.com/oper-geschenkt-poesie-statt-politik",
+      "published_at": "2026-09-28T09:24:59+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BILBAO / Euskadiko Orkestra: mirando a Mahler",
+      "summary": "Bilbao Palacio de Festivales（25-IX-2026）：Lucas Macías指挥Euskadiko Orkestra与Orfeón Donostiarra，Jone Martínez（女高音）、Nadezhda Karyazina（女中音）演出马勒《第2交响曲〈复活〉》。以此曲开季显示乐团对马勒曲目的认同并将于四月演第六号。Macías脱谱指挥、克制优雅，注重比例与声部平衡；首乐章保有凶猛对比，Andante神秘甜美，Scherzo金管强劲；Urlicht为弦乐与Karyazina的细腻独唱亮点；终章激越，合唱与乐团气势宏大，Jone Martínez以纯净音色最为出色。",
+      "url": "https://scherzo.es/bilbao-euskadiko-orkestra-mirando-a-mahler",
+      "published_at": "2026-09-28T09:22:24+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / Festival COMA 26: Obras nuevas con el coro de la CAM",
+      "summary": "Madrid Teatros del Canal（26-IX-26）COMA 26第二场由Coro de la Comunidad de Madrid在Javier Carmena指挥下演出。节目包括Hermes Luaces的Preciosa、Marisa Manchado的La cité des Dames、Abraham González Ponce的Irish blessings for life and death、Jaime Santoyo的Sanctus、Juan Manuel Conejo的首演La nit；Karina Azizova演奏Colomer的Pas de bourré与Guinovart的Vals brillant-humoristic。Ana Váquez Silva的首演Amor与Manuel Martínez Burgos的Three visions of Ecstasy亦被呈现。评论认为合唱团准备充分，合唱、指挥与钢琴是演出成功的支柱，凸显COMA对当代合唱创作的关注与活力。",
+      "url": "https://scherzo.es/madrid-festival-coma-26-obras-nuevas-con-el-coro-de-la-cam",
+      "published_at": "2026-09-28T06:54:02+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Kölns Rosenkavalier: Alles Fleisch. Kein Geist.",
+      "summary": "科隆歌剧院闭馆14年重开，首演理查德·施特劳斯《Der Rosenkavalier》。导演Marie-Ève Signeyrole把演出搬到电影片场、强调“肉体”而剥夺灵性，舞台与叙事混乱，结尾长时间脱衣令歌者受辱。指挥Andrés Orozco-Estrada与Gürzenich-Orchester声音粗涩、过响、缺乏超然感。Magdalena Hinterdobler声线沉稳可圈可点，Bianca Andrew表演活泼、声线细腻，Giulia Montanari常被淹没，Patrick Zielke台风与声乐亦有不足。新屋华美，首演被评价为一场彻底的失败。",
+      "url": "https://backstageclassical.com/kolns-rosenkavalier-alles-fleisch-kein-geist",
+      "published_at": "2026-09-27T21:07:07+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "ALICANTE / ADDA·Simfònica y Josep Vicent, Wagner sin palabras y sin fisuras",
+      "summary": "2026年9月26日，ADDA·Simfònica Alicante由Josep Vicent售罄开季，演出Lorin Maazel的Der Ring ohne Worte（El Anillo sin palabras），适逢Bayreuth首演150周年。Vicent无棒指挥，沉着有力，个别转接略显生硬；乐队序曲起步稍逊后渐入佳境，女武神与森林段落表现出色，终章圆满。灯光配合成功，影像褒贬不一，观众以提前掌声致谢。",
+      "url": "https://scherzo.es/alicante-adda%c2%b7simfonica-y-josep-vicent-sin-palabras-y-sin-fisuras",
+      "published_at": "2026-09-27T14:48:33+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "A CORUÑA / OSG y González-Monjas: lo que Mahler nos sigue diciendo",
