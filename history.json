@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-09-28T11:49:00.154857+00:00",
+  "updated_at": "2026-09-29T11:25:12.427158+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Entdeckt, gefördert – und dann?",
+      "summary": "Dorothea Gregor（Liz Mon Stiftung）以 Vienna Opera Lab 为例指出：该项目参会费逾1000欧、引发 BackstageClassical 报道与争议，反映部分项目将青年歌手的希望货币化。作者认为问题不在培养渠道缺乏，而在机构缺乏对声音长期发展的责任，导致 Opernstudio‑Hopping、过度选择化与职业不稳定，并呼吁歌剧院（如 Frankfurt、München、Zürich）承担持续培养与倾听的责任。",
+      "url": "https://backstageclassical.com/entdeckt-gefoerdert-und-dann",
+      "published_at": "2026-09-29T11:06:37+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BARCELONA / ‘Aida’ regresa vencedora también en el segundo reparto encabezado por Anna Pirozzi",
+      "summary": "Gran Teatre del Liceu于27-IX-2026上演Verdi: Aida，第二套由Anna Pirozzi、Ivan Gyngazov、Ksenia Dudnikova、Ludovic Tézier等领衔，Orquesta Sinfónica y Coro del Gran Teatre del Liceu，舞台导演Shrin Neshat，音乐指挥Antonello Manacorda。Manacorda在指挥上以戏剧性与透明音色取胜，Pablo Assante指挥的合唱表现灵动；Anna Pirozzi以意大利式唱腔、稳定高音和表演成为当晚无可争议的胜者，整体音乐与合唱弥补了舞台与导演方面的不足，促成Aida在Liceu的凯旋回归。",
+      "url": "https://scherzo.es/barcelona-aida-regresa-vencedora-tambien-en-el-segundo-reparto-encabezado-por-anna-pirozzi",
+      "published_at": "2026-09-29T06:47:26+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "GRANADA / La OCG y Marianna Henriksonn, moderna de la música antigua",
+      "summary": "2026年9月25日，格拉纳达Manuel de Falla，Orquesta Ciudad de Granada在羽管键琴兼指挥Marianna Henriksson主持下呈献古乐专场。节目由Henriksson的Merulian Sketch揭幕，续演Marini、Castello、Muffat的Concerto grosso XII Propitia sydera、Henriksson改编的Byrd The Bells、Bach布兰登堡第三号BWV1048（夹入Jukka Tiensuu的Brandi）及Johan Helmich Roman的套曲。Henriksson边弹边指、演奏技艺突出；乐团音色细腻、具古乐风格；Muffat段落对位处理精彩，Byrd改编呈极简叠加效果，整体节目新颖独到。",
+      "url": "https://scherzo.es/granada-la-ocg-y-marianna-henriksonn-moderna-de-la-musica-antigua",
+      "published_at": "2026-09-29T06:43:00+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "MADRID / El poderío vocal de Apollo5",
