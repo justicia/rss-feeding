@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-03T10:28:43.122689+00:00",
+  "updated_at": "2026-10-04T11:10:29.811441+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "PARMA, FESTIVAL VERDI / Una gran ‘Aida’ en el pequeño Busseto",
+      "summary": "Festival Verdi在Busseto Teatro Verdi于2日上演Zeffirelli版《Aida》（由Stefano Trespidi复排）。指挥Giuseppe Mengoli掌控细致有力，Filarmónica Arturo Toscanini与Coro del Teatro Regio di Parma配合热情。Zeffirelli的宏大传统布景在约300座、7米舞台显得拥挤且略俗，但观众欢迎。主演Federica Vitali（Aida）、Vincenzo Costanzo（Radamés，身体不适仍专业）、Hae Kang（Amonasro）、Teresa Iervolino（Amneris）等表现稳健；Academia Verdiana出身的Francesco Congiu与Nicoletta Briguglio亦有亮眼片段。演出强调意大利歌剧传统与Verdi作品的普遍性。",
+      "url": "https://scherzo.es/parma-festival-verdi-una-gran-aida-en-el-pequeno-busseto",
+      "published_at": "2026-10-04T10:58:43+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BERLÍN / ‘La Vestale’: Spontini sin final feliz en Unter den Linden",
+      "summary": "柏林 Staatsoper Unter den Linden 26.9.2026 上演 Gaspare Spontini 的 La Vestale，纪念其1820–1841任首席乐长。导演 Lydia Steier（舞美 Etienne Pluss、服装 Katharina Schlipf）将古罗马移至索邦并改写结局，由 Cinna（Siyabonga Maqungo）下令枪决，出现焚书与虐待场面，引发强烈争议。Sonya Yoncheva 首演 Julia，起声金属感但第三幕《Toi que j’implore avec effroi》表现突出；David Butt Philip 饰 Licinius 表现不稳、缺法式风格；Marina Prudenskaya 为 Gran Vestale 出色，Adrian Sampetrean 可靠。Carlo Rizzi 指挥 Staatskapelle Berlin 有力，合唱（Dani Juris 筹备）饱满。观众为演出鼓掌却嘘舞台团队。",
+      "url": "https://scherzo.es/berlin-la-vestale-spontini-sin-final-feliz-en-unter-den-linden",
+      "published_at": "2026-10-03T23:08:51+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "VALENCIA / Una ‘Carmen’ sin piel inaugura la temporada del Palau de les Arts",
+      "summary": "Valencia Palau de les Arts以Ted Huffman新制作的Bizet《Carmen》开季，Michele Spotti指挥Orquesta de la Comunitat Valenciana。Huffman将卡门“去皮”，以人物关系与动作为核心，舞台以大台与椅林为主，终场彩纸获掌声。Spotti指挥明快精确，乐团优秀但部分戏剧情感仍可深化。Vasilisa Berzhanskaya的Carmen抒情优雅，Charles Castronovo表现出色；Ruth Iniesta、Davide Luciano、Aitana Sanz、Manuel Fuentes及Cor de la Generalitat Valenciana、Coral Veu Juntes、Escolanía de la Virgen de los Desamparados均获肯定，Pim Veulings负责编舞。",
+      "url": "https://scherzo.es/valencia-una-carmen-sin-piel-inaugura-la-temporada-del-palau-de-les-arts",
+      "published_at": "2026-10-03T23:06:57+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "BackstageClassical-Tipp: Die 5 wichtigsten Aufnahmen der Woche",
+      "summary": "本周评出五张重要新录音：Christophe Rousset与Monteverdi Choir、English Baroque Soloists的Händel《Messiah》（harmonia mundi）以自然而权威、现场氛围精彩获赞，并开启与harmonia mundi的长期合作；Simon Rattle指挥的Mahler《Sinfonie Nr.2 “Auferstehung”》（BR-Klassik）被指节奏粗糙、缺乏超越性且歌手不佳，“没人需要”；Pierre-Laurent Aimard的Schönberg钢琴作品集（Alpha Classics）被称令人惊叹；Rumon Gamba在Chandos推出的Granville Bantock管弦乐以1913年《Hebridean Symphony》为核心；Ariel Quartet的Beethoven《Complete String Quartets Vol. III》（Orchid Classics）以清晰演绎完成贝多芬弦乐四重奏周期。",
+      "url": "https://backstageclassical.com/backstageclassical-tipp-die-5-wichtigsten-aufnahmen-der-woche",
+      "published_at": "2026-10-03T18:04:23+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "TOULOUSE / Stefano Poda firma una ‘Rusalka’ acuática y admirable en el Teatro del Capitolio",
