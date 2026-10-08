@@ -1,6 +1,55 @@
 {
-  "updated_at": "2026-10-07T11:52:33.651507+00:00",
+  "updated_at": "2026-10-08T12:07:23.437513+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Kulturjournalismus: München steckt im Gestern",
+      "summary": "文章称音乐新闻业陷入危机：编辑部缩减、古典杂志停刊、写作难以为生；高校虽引入技术与“Journalismus 4.0”，但未重视调查性报道。以慕尼黑Hochschule für Musik und Theater的文化新闻硕士为例，项目由Dorte Lena Eilers主导，课表缺乏调查实验室、数据新闻与探报培训，官网kulturjournalismus‑muenchen.de存在技术与选题权重问题；2026/27年28人申请、录取8人、在读共22名。作者Axel Brüggemann呼吁将歌剧院、乐团、音乐节等作为权力与资金体系进行深入调查报道。",
+      "url": "https://backstageclassical.com/wie-muenchens-hochschule-klassik-von-gestern-lehrt",
+      "published_at": "2026-10-08T09:21:46+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Berliner Philharmonie: Tempelhof wird Favorit für Ausweichquartier",
+      "summary": "柏林爱乐厅（Berliner Philharmonie）多年大修期间拟将临时演出场地设在前坦佩尔霍夫机场（Tempelhof）。乐团委托的可行性研究估算，1963年启用的Scharoun‑Bau全面整修约需8亿欧元，工程拟于2032年开工、至2040年完成；若不整修，最迟2032/33年将无法保证演出。临时场地及相关费用约3.5亿欧元，总计约11.5亿欧元。融资尚未落实：柏林预算列出3.5亿欧元，联邦在新首都融资协议承诺最多2.25亿欧元，合计上限约5.75亿欧元，仍不足以覆盖预计总额。总监Andrea Zietzschmann将于2028年离任，称需由能长期陪伴整修的任期接替。",
+      "url": "https://backstageclassical.com/berliner-philharmonie-tempelhof-wird-favorit-fuer-ausweichquartier",
+      "published_at": "2026-10-08T07:20:18+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / Christiane Karg y Malcolm Martineau: La canción del final",
+      "summary": "Madrid Teatro de la Zarzuela，6‑X‑2026，XXXIII Ciclo de Lied。Christiane Karg（soprano）与 Malcolm Martineau（piano）演绎 Amy Beach、Debussy、Berg、Schoenberg、Mahler（Gustav y Alma）与 Strauss 作品。节目审视一战前德法语境下室内歌曲的命运，别致且要求高。评论指出 Karg 音色精细、法德语逐字表述、色彩变化丰富，Martineau 伴奏色彩与倾听对话出众，二人合奏堪称大师级。",
+      "url": "https://scherzo.es/madrid-christiane-karg-y-malcolm-martineau-la-cancion-del-final",
+      "published_at": "2026-10-08T06:37:51+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "SANTIAGO DE COMPOSTELA / Lina Tur Bonet inaugura la octava edición del Ateneo Barroco",
+      "summary": "10月6日，Ateneo Barroco de Santiago de Compostela第八届“Instrumental”在Iglesia de la Universidad开幕，Lina Tur Bonet演奏Matteis（Passaggio rotto、Fantasia）、Bach的Sonatas & Partitas（含Sonata No.2 BWV1003、Partita No.2 BWV1004）及Biber的Rosenkranz/Mysteriensonaten中的Passacaglia。演出被赞技艺精湛、表情丰富，Ciaccona演绎尤为感人；现场湿度影响调音，文章并呼吁Xunta de Galicia加强对该类节庆与国际乐团的支持。",
+      "url": "https://scherzo.es/santiago-de-compostela-lina-tur-bonet-inaugura-la-octava-edicion-del-ateneo-barroco",
+      "published_at": "2026-10-08T06:36:45+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "SEVILLA / Músicas para una guitarra histórica",
+      "summary": "2026年10月10日，塞维利亚Conservatorio Superior de Música “Manuel Castillo”在Festival de la Guitarra de Sevilla上，Rody van Gemert以1882年Antonio de Torres名琴“La Perla”独奏。La Perla音色圆润均衡，低频细腻高音收敛；Gemert对乐器色彩与技法掌控出众。节目包括Mompou《Cuna》、Julián Arcas《Las Murcianas》、Tárrega（含Serenata Española、Cajita de Música及其对Fernández Caballero《La gallina ciega》哈巴内拉的改编）、Pilar Miralles新作、Manuel Castillo奏鸣曲（尤为精彩）及Marais之Tombeau（演绎未尽说服力）。",
+      "url": "https://scherzo.es/sevilla-musicas-para-una-guitarra-historica",
+      "published_at": "2026-10-08T06:36:09+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / COMA 26: El encanto sonoro de la percusión",
+      "summary": "10月6日，Madrid Teatros del Canal Sala Negra在COMA 26音乐节上，Joan Castelló y Geni Uñón演出打击乐专场。节目包括Juan Galiano的Escila y Caridis（首演）、Miguel Martín Fernández的Kafka（首演）、Alejandro Moreno的Otro paseo por el Gambullón、Ricardo Escorcio的Estudio Rucanero和Alicia Díaz de la Fuente的Umbrales。二人技术精确、音色清晰、音乐判断可嘉，合奏与独奏均掌控得当；Umbrales演出尤为出色，整体演出达到高度，彰显打击乐当代价值。",
+      "url": "https://scherzo.es/madrid-coma-26-el-encanto-sonoro-de-la-percusion",
+      "published_at": "2026-10-08T06:35:40+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / La ORCAM y Alondra De la Parra abarcan el mundo de Mahler",
+      "summary": "6-X-2026，Auditorio Nacional de Música，Orquesta y Coro de la Comunidad de Madrid（ORCAM）在Alondra De la Parra指挥下以Mahler: Sinfonía nº 3开季。De la Parra指挥明晰有力，掌控大编制得当；首乐章圆号与长号表现突出，第二乐章木管色彩细致，外场posthorn制造出怀旧氛围。Jennifer Johnston嗓音温暖、pianissimo控制佳；Coro de la Comunidad de Madrid（指挥Javier Carmena）与Pequeños Cantores de la ORCAM（指挥Ana González）合唱纯净、入点准确。终章弦乐推动的渐强压轴，最终赢得观众起立鼓掌。",
+      "url": "https://scherzo.es/madrid-la-orcam-y-alondra-de-la-parra-abarcan-el-mundo-de-mahler",
+      "published_at": "2026-10-07T11:58:20+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "MADRID / Javier Eguillor y la BSMM: Cuando la percusión y la buena música son de primera",
