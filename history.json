@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-08T12:07:23.437513+00:00",
+  "updated_at": "2026-10-09T11:58:11.293021+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Lieber Simon Rattle,",
+      "summary": "Axel Brüggemann写道，Simon Rattle与BR-Intendantin Katja Wildermuth续约至2033年，签约现场亲密。Rattle称“我爱这些音乐家……我从未如此幸福”，乐团也支持他。但作者批评其任内BRSO音乐发展倒退：Mariss Jansons时代的精准音色不见，录音多余、独奏人选私人化、整体精确性消失，BRSO已成“Sir Simon”的乐团；并以Berlin Philharmoniker恢复为例警示，称更像延续一个“可爱吉祥物”而非音乐领袖。",
+      "url": "https://backstageclassical.com/lieber-simon-rattle",
+      "published_at": "2026-10-09T07:29:18+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / El efecto Vengerov",
+      "summary": "10月7日，Atlántida Chamber Orchestra在马德里Auditorio Nacional开季音乐会，指挥Manuel Tévar，独奏Maxim Vengerov。乐团先奏Glinka《Ruslán y Ludmila》序曲，随后Vengerov演出Sibelius小提琴协奏曲（op.47），以卓越音色、深度与技巧成为全场焦点并以巴赫G小调第一奏鸣曲Adagio加演，观众热烈回应；下半场演出的Dvořák《第八交响曲》（op.88）被指音域不均、低频不足与准确性欠佳，整体热情可见但表现参差。",
+      "url": "https://scherzo.es/madrid-el-efecto-vengerov",
+      "published_at": "2026-10-09T06:22:57+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "TOULOUSE / Tarmo Peltokoski inaugura la temporada de la Orquestra Nacional del Capitolio bajo el signo de la naturaleza y la luz",
+      "summary": "2026年10月1日，Tarmo Peltokoski在Toulouse Halle aux Grains为Orquestra Nacional del Capitolio开季，演出Rautavaara的Canticus Arcticus、Vasks的小提琴协奏曲“Distant Light”（独奏：Daniel Lozakovich）与Stravinsky的El pájaro de fuego。音乐会爆满，Capitolio乐团在音色与色彩上表现卓越；Lozakovich以其Stradivarius呈现深情且剧烈的演绎，并以巴赫组曲片段加演；Peltokoski指挥均衡有力，被确认不仅是优秀指挥，也是擅长构思乐季的“建筑师”。",
+      "url": "https://scherzo.es/toulouse-tarmo-peltokoski-inaugura-la-temporada-de-la-orquestra-nacional-del-capitolio-bajo-el-signo-de-la-naturaleza-y-la-luz",
+      "published_at": "2026-10-09T06:22:01+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / La moderna pluralidad del Plural Ensemble",
+      "summary": "Festival de Ensembles XVII开幕：Plural Ensemble在Fabián Panisello指挥下演出，曲目：Mauricio Sotelo的Urprall…I；Umberto Pedraglio的Eros；Nuria Núñez Hierro首演的Atlas Coelestis；P.Q.Phan的Hues of Hùe；以及Panisello的Written in blue与Shifting Mirrors。音乐会展示当代音乐的多元与高水准，Panisello兼具作曲与指挥才能，Manuel Blanco在Written in blue中号技与音色出众，合奏团整体表现优异。",
+      "url": "https://scherzo.es/madrid-la-moderna-pluralidad-del-plural-ensemble",
+      "published_at": "2026-10-09T06:19:10+00:00"
+    },
     {
       "source": "BackstageClassical",
       "title": "Kulturjournalismus: München steckt im Gestern",
