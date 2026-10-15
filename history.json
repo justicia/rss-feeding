@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-10-14T10:19:30.023218+00:00",
+  "updated_at": "2026-10-15T10:02:44.072783+00:00",
   "articles": [
+    {
+      "source": "Scherzo",
+      "title": "MADRID / Dudamel y la Filarmónica de Nueva York triunfan con un Mahler discreto",
+      "summary": "2026年12月14日，Ibermúsica在马德里Auditorio Nacional迎来Orquesta Filarmónica de Nueva York，指挥Gustavo Dudamel。首演古巴作曲家Tania León新作Imágenes mestizas（约11分钟），以打击色彩与单簧管独奏见长，反响较Di Castri作品更暖。晚场为Gustav Mahler第五交响曲：Dudamel带来活力与节奏感，但第一乐章偏慢、细节与质感不足，小号有失误；第二乐章有力但欠流畅；Scherzo与圆号独奏精彩；Adagietto情感展开不足；Rondó最为成功但局部声响过盛。总体为较为审慎的诠释，观众反应热烈。",
+      "url": "https://scherzo.es/madrid-dudamel-y-la-filarmonica-de-nueva-york-triunfan-con-un-mahler-discreto",
+      "published_at": "2026-10-15T09:32:21+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "RAIMAT / El Raimat Arts Festival acerca la música a un entorno privilegiado",
+      "summary": "El Raimat Arts Festival第五届（8–11/10）以Raimat地域与酿酒遗产为核心，艺术总监Joan Plana与基金会主席Elena de Carandini Raventós主导。Xavier Sabata与Francisco Poyato在酒庄完整演绎Schubert《Winterreise》，Sabata嗓音细腻、戏剧性收敛、更趋内省，Poyato伴奏配合默契；The Cramer Quartet在Iglesia Raimat呈现The Seven Last Words Project，结合Camilla Tassi视像与古乐器，衔接Haydn与美国当代作曲家（Jessica Meyer、Colin Jacobsen、Reena Esmail、Tania León、Nico Muhly、Paola Prestini、Caroline Shaw），演奏与视觉制作获肯定；Elisabet Franch/Blanch在多地演奏巴赫、Debussy等短曲。基金会明年1月将于Vall d’Aran启动首届Aran Arts Festival。",
+      "url": "https://scherzo.es/raimat-el-raimat-arts-festival-acerca-la-musica-a-un-entorno-privilegiado",
+      "published_at": "2026-10-15T06:46:52+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "NUEVA YORK / Lise Davidsen encabeza una irregular producción de ‘Macbeth’ de Verdi en el Met",
+      "summary": "2026年10月5日，纽约Metropolitan Opera上演Verdi《Macbeth》。Louisa Proske的新制作被指灰暗拥挤、群戏调度与Jon Bausor的布景混乱，Montana Levi Blanco服装有利于歌者。主演阵容不均：Ryan Speedo Green台风合适但声色欠厚，Freddie De Tommaso嗓音充足却时有用力过度，Quinn Kelsey声线宏美但动态区间不足，Lise Davidsen的Lady Macbeth发声失衡、低区乏力且缺乏凶厉。Yannick Nézet-Séguin的指挥照顾歌者并突出管弦，单簧管独奏与Tilman Michael指挥的合唱是全场亮点，但总体演出水准低于预期。",
+      "url": "https://scherzo.es/nueva-york-lise-davidsen-encabeza-una-irregular-produccion-de-macbeth-de-verdi-en-el-met",
+      "published_at": "2026-10-15T06:24:05+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "GRANADA / Pons y la OCG interpretan a Nino Rota: un reencuentro memorable",
+      "summary": "2026-10-10，Granada Auditorio Manuel de Falla，Orquesta Ciudad de Granada在Josep Pons指挥下演奏Nino Rota：Il Gattopardo舞曲、Divertimento concertante（低音提琴独奏Joaquín Arrabal）与La Strada组曲。Pons指挥细腻俏皮，Il Gattopardo表现迷人；Arrabal技艺与音乐性出众并加演Bach Suite nº 2 BVW 1067波洛内兹改编；La Strada展现乐团巅峰，首席Birgit Kolar与长笛Juan Carlos Chornet表现精彩。",
+      "url": "https://scherzo.es/granada-pons-y-la-ocg-interpretan-a-nino-rota-un-reencuentro-memorable",
+      "published_at": "2026-10-15T06:23:24+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "MADRID / Un trepidante Prokofiev cierra el primer concierto de la Filarmónica de Nueva York",
+      "summary": "2026年12月13日，Ibermúsica开幕，纽约爱乐由Gustavo Dudamel指挥亮相。演出包括Zosha Di Castri的Invisible House、John Adams的On the Transmigration of Souls（与Orfeó Català三合唱）及普罗科菲耶夫《第五交响曲》。Di Castri以色彩与打击乐见长但情感感染力有限，观众反应冷淡；Adams借录音与Orfeó Català深刻再现9·11之痛，合唱与管弦表现卓著；杜达梅尔指挥普罗科菲耶夫充满活力，纽约爱乐演奏出色。",
+      "url": "https://scherzo.es/madrid-un-trepidante-prokofiev-cierra-el-primer-concierto-de-la-filarmonica-de-nueva-york",
+      "published_at": "2026-10-14T10:52:01+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "ZÚRICH / ‘La rondine’ y ‘Tannhäuser’: Sueño, nostalgia y desgarro",
