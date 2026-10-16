@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-10-15T10:02:44.072783+00:00",
+  "updated_at": "2026-10-16T09:56:36.034014+00:00",
   "articles": [
+    {
+      "source": "BackstageClassical",
+      "title": "Die 5 der Woche: Zwischen Meeresrausch und Orgelwahn",
+      "summary": "本周五张新录音：Antonio Pappano携London Symphony Orchestra & Chorus与Masabane Cecilia Rangwanasha、Will Liverman录制Ralph Vaughan Williams《A Sea Symphony》并配Elizabeth Maconchy《Nocturne》，Pappano延续周期，宏大有力且令人信服；Vincent Dumestre与Le Poème Harmonique复活Baldassare Galuppi《L’uomo femina》，演出活力十足；Patricia Kopatchinskaja与Fazıl Say的《Patkop & Say》疯狂却精彩；Hans Winterberg的第二交响与第二钢琴协奏为重要再发现，Roland Kluttig与Staatsphilharmonie Rheinland-Pfalz首张商业录音；Joseph Nolan在Signum继续Alkan风琴全集，作品技术与听感均要求很高。",
+      "url": "https://backstageclassical.com/die-5-der-woche-zwischen-meeresrausch-und-orgelwahn",
+      "published_at": "2026-10-16T09:11:36+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Machtmissbrauch: Präsident der Musikhochschule Nürnberg tritt zurück",
+      "summary": "纽伦堡音乐学院校长Rainer Kotzian在遭指控滥用权力并持续抗议后于10月16日辞职。核心事件为2025年11月一次外部活动：Kotzian将一名女学生请入私人酒店房间，其妻（亦为该校教师）指控该生与其丈夫有关系。学生组织“Studis gegen Machtmissbrauch Nürnberg”指Kotzian利用职权并阻碍调查；Kotzian承认未充分顾及师生权力差距但否认部分指控。2026年春已有两名平权负责人辞职，巴伐利亚科技部长Markus Blume要求彻查，Landesanwaltschaft已介入，事件引发对音乐院校内部监督与师生依赖关系的质疑。",
+      "url": "https://backstageclassical.com/machtmissbrauch-praesident-der-musikhochschule-nuernberg-tritt-zurueck",
+      "published_at": "2026-10-16T07:48:25+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "PARÍS / Pablo Heras-Casado y Calixto Bieito finalizan el ‘Anillo’ de Wagner",
+      "summary": "2026年10月11日巴黎巴士底歌剧院上演Richard Wagner《Götterdämmerung》，由Pablo Heras-Casado指挥、Calixto Bieito导演，Orquesta y Coros de la Ópera Nacional de París承担演奏与合唱，标志自2025年1月以《Das Rheingold》起的指环制作闭幕。Bieito以机器人犬、王冠形指环、Jacquard织机与长餐桌等现代意象呈现堕落贵族，视觉冲击强但戏剧连贯性不足；Heras-Casado指挥音色丰润、转接流畅却缺乏紧迫感。独唱阵容均衡且多有亮点：Tamara Wilson为Brünnhilde表现强烈，Andreas Schager为Siegfried勇猛，Mika Kares（Hagen）、Sinéad Campbell Wallace（Gutrune）、Johannes Martin Kränzle（Gunther）与Eve-Maud Hubeaux亦表现稳健；巴黎歌剧院乐团与合唱总体精彩但可更凝聚。",
+      "url": "https://scherzo.es/paris-pablo-heras-casado-y-calixto-bieito-finalizan-el-anillo-de-wagner",
+      "published_at": "2026-10-16T06:34:20+00:00"
+    },
+    {
+      "source": "Scherzo",
+      "title": "BUDAPEST / El I Concurso Internacional de Dirección Solti declara desierto su primer premio",
+      "summary": "2026年10月9–10日，Müpa在Sala Nacional de Conciertos Béla Bartók举办I Concurso Internacional de Dirección Solti决赛，四位35岁以下指挥与Orquesta Filarmónica Nacional Húngara同台：Francesco Cagnasso（Strauss《El murciélago》、Liszt《Los preludios》）、Yu-Te Wu（Verdi《La forza del destino》、Bartók《Suite de danzas》）、Fernando Gaggini（Mussorgsky《Una noche en el Monte Pelado》、Dohnányi《Minutos sinfónicos》）、Drummado Wijnhamer（Dukas《El aprendiz de brujo》、Kodály《Danzas de Galánta》）。评委会（主席Pinchas Steinberg）将首奖宣告空缺，二等奖€12,000授予Drummado Wijnhamer，三等奖€8,000及观众奖€3,000授予Yu-Te Wu。评论认为Yu-Te Wu最具音乐性与创造力，Wijnhamer与乐团共鸣佳，Cagnasso具Solti气质，Gaggini细腻，乐团表现突出。",
+      "url": "https://scherzo.es/budapest-el-i-concurso-internacional-de-direccion-solti-declara-desierto-su-primer-premio",
+      "published_at": "2026-10-16T06:32:53+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Lob und Kritik : Thielemann bleibt bis 2034 in Berlin",
+      "summary": "Stiftung Oper in Berlin将Christian Thielemann与Intendant Elisabeth Sobotka的合约延长至2034年7月31日，决定于10月8日作出并由Kultursenator Stefan Evers签署。Thielemann称与Staatskapelle及Sobotka合作“sehr harmonisch”，拟维持核心曲目并探索新作；但Berliner Zeitung和评论员 Ulrich Seidler批评时机（在CDU败选后）、其艺术取向、曲目偏窄、领导风格及演出空座。柏林参议院紧缩预算并已取消一台首演，此举虽强调延续性，但其音乐定位与在场性争议未消。",
+      "url": "https://backstageclassical.com/lob-und-kritik-thielemann-bleibt-bis-2034-in-berlin",
+      "published_at": "2026-10-15T12:09:47+00:00"
+    },
+    {
+      "source": "BackstageClassical",
+      "title": "Liebe Anne, Gemütlichkeit ist keine Kunst!",
+      "summary": "BRSO音乐家Anne Schoenholtz在Instagram指责Axel Brüggemann不尊重Simon Rattle，Brüggemann回信为尖锐批评辩护，称“knuddeliges Maskottchen”之类的比喻应能承受，并从音乐角度质疑Rattle：在柏林爱乐下情感增强但失去精确与个性。对BRSO的马勒《第二交响曲》录音他指出Ländler缺双重底色、Scherzo以响度为主、独唱者多次力不从心；并强调Rattle为公共人物、BR高额酬劳，且担忧BR‑Klassik与MDR Klassik合并会削弱独立古典新闻。",
+      "url": "https://backstageclassical.com/liebe-anne-gemuetlichkeit-ist-keine-kunst",
+      "published_at": "2026-10-15T10:08:12+00:00"
+    },
     {
       "source": "Scherzo",
       "title": "MADRID / Dudamel y la Filarmónica de Nueva York triunfan con un Mahler discreto",
